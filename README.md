@@ -69,7 +69,7 @@
 
 ---
 
-<p align="center"><i>Open to freelance MERN projects & collaborations — let's build something 🚀</i></p>## Hi there 👋
+<p align="center"><i>Open to freelance MERN projects & collaborations — let's build something 🚀</i>
 
 <!--
 **jeevzzz1024/jeevzzz1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
