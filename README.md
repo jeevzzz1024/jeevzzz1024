@@ -1,3 +1,17 @@
+# Hello, I'm Jeevasridhar! 👋
+
+<div align="center">
+<!-- Default Theme -->
+<!--![Snake Animation](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake.svg)
+
+<!-- Uncomment the theme you prefer: -->
+
+<!-- 🌑 Dark Theme -->
+![Snake Animation](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake-dark.svg)
+
+
+</div>
+
 <h1 align="center">Hi there, I'm Jeeva Sridhar R 👋</h1>
 
 <p align="center">
@@ -29,6 +43,19 @@
 
 ---
 
+### 🌟 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🚌 **Bus Tracking System** | Multi-portal React app with real-time tracking, deployed live |
+| 🔊 **EchoVision 3.0** | Flutter voice-first AI assistant for visually impaired users |
+| 💬 **Klik** | Full-stack MERN chat app with end-to-end encryption |
+| 🎓 **DJ Consultancy Website** | Website for engineering admissions counseling business |
+| 💈 **D8 Salon** | Freelance client site for a hair salon in Tiruchengode |
+| 💅 **Abhishree — The Magic of Beauty & Tattoos** | Freelance client site for a beauty parlour & tattoo studio |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -46,4 +73,19 @@
 
 ---
 
-<p align="center"><i>Open to freelance MERN projects & collaborations — let's build something 🚀</i></p>
+<p align="center"><i>Open to freelance MERN projects & collaborations — let's build something 🚀</i></p>## Hi there 👋
+
+<!--
+**jeevzzz1024/jeevzzz1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
