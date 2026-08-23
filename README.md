@@ -51,8 +51,7 @@
 | 🔊 **EchoVision 3.0** | Flutter voice-first AI assistant for visually impaired users |
 | 💬 **Klik** | Full-stack MERN chat app with end-to-end encryption |
 | 🎓 **DJ Consultancy Website** | Website for engineering admissions counseling business |
-| 💈 **D8 Salon** | Freelance client site for a hair salon in Tiruchengode |
-| 💅 **Abhishree — The Magic of Beauty & Tattoos** | Freelance client site for a beauty parlour & tattoo studio |
+
 
 ---
 
